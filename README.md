@@ -18,18 +18,12 @@ A simple, RESTful API for managing inventory and tracking stock levels with auto
 
 ## Installation
 
-1. Clone or extract the project:
-```bash
-tar -xzf project.zip
-cd project
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Configure environment variables:
+2. Configure environment variables:
 Create a `.env` file in the root directory:
 ```
 VITE_SUPABASE_URL=https://your-project.supabase.co
